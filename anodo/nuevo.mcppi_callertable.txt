@@ -1,0 +1,6 @@
+main
+	__CC2DW
+		____DoICP
+	conteo_up
+	conteo_down
+	multiplexado

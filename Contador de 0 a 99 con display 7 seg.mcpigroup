@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=Contador de 0-99 display 7 seg.mcppi
+Project1=Contador de 0 a 99 con display 7 seg.mcppi
+[ActiveProject]
+Index=1
